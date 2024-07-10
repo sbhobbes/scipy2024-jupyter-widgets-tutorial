@@ -1,9 +1,9 @@
 .vscode/ltex.dictionary.en-US.txt
 .ipynb_checkpoints
 data/output.csv
-dashboard/*.py
-dashboard_pydantic
-dashboard_solara
+# dashboard/*.py
+# dashboard_pydantic
+# dashboard_solara
 __pycache__
 .vscode/settings.json
 voici_project/_output/
